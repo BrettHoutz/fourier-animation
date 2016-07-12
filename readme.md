@@ -1,7 +1,7 @@
 Fourier Series Animation
 ========================
 
-[!Fourier series animation](fourier.gif)
+![Fourier series animation](fourier.gif)
 
 Processing code for a visualization of the Fourier series for a square wave.
 
